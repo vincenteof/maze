@@ -1,9 +1,11 @@
 const YEAR = new Date().getFullYear()
 
 export default {
+  darkMode: true,
+
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
-      <time>{YEAR}</time> © Your Name.
+      <time>{YEAR}</time> © vincenteof
       <a href="/feed.xml">RSS</a>
       <style jsx>{`
         a {

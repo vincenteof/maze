@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Posts
+title: 迷思
 date: 2021-03-18
 ---
 
-# Posts
+# 迷思
